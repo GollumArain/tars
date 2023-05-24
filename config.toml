@@ -14,7 +14,7 @@ disqusShortname = "kksudo"
 enableGitInfo = true
 
 [params]
-author = "Gollum"
+author = "TARS Tech SA"
 info = ["Got a Glitch? Get a Fix!"]
 description = "TARS Tech SA's social page"
 keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
@@ -36,34 +36,40 @@ author = "authors"
 
 # Social links
 [[params.social]]
-name = "Github"
-icon = "fa fa-github fa-2x"
+name = "Facebook"
+icon = "fa fa-facebook fa-2x"
 weight = 1
-url = "https://github.com/kksudo/"
+url = "https://www.facebook.com/TARSTechSA/"
 target = "_blank"
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab fa-2x"
+name = "Twitter"
+icon = "fa fa-twitter fa-2x"
 weight = 2
-url = "https://gitlab.com/kksudo"
+url = "https://twitter.com/TARSTechSA/"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://instagram.com/TARSTechSA/"
 target = "_blank"
 [[params.social]]
-name = "Linkedin"
-icon = "fa fa-linkedin fa-2x"
+name = "Tiktok"
+icon = "fa fa-tiktok fa-2x"
+weight = 4
+url = "https://www.tiktok.com/@TARSTechSA/"
+target = "_blank"
+[[params.social]]
+name = "YouTube"
+icon = "fa fa-tiktok fa-2x"
 weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
+url = "https://www.youtube.com/@TARSTechSA/"
 target = "_blank"
 [[params.social]]
-name = "k@kazakov.xyz"
+name = "TARS Tech SA"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:tarstechsa@gmail.com"
 target = "_blank"
 
 # Menu links
