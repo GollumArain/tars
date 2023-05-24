@@ -1,5 +1,5 @@
 baseurl = "https://kazakov.xyz"
-title = "DevOps with love"
+title = "TARS Tech SA"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,13 +14,13 @@ disqusShortname = "kksudo"
 enableGitInfo = true
 
 [params]
-author = "Kirill Kazakov"
-info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
+author = "Gollum"
+info = ["Got a Glitch? Get a Fix!"]
+description = "TARS Tech SA's social page"
 keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
+avatarurl = "https://imgur.com/UkaKzu8"
 
-since = 2010
+since = 2023
 enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
