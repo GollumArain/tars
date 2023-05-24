@@ -17,8 +17,8 @@ enableGitInfo = true
 author = "TARS Tech SA"
 info = ["Got a Glitch? Get a Fix!"]
 description = "TARS Tech SA's social page"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-avatarurl = "https://imgur.com/UkaKzu8"
+keywords = "blog,businesscard,personal,devops"
+avatarurl = "https://i.imgur.com/UkaKzu8.jpeg"
 
 since = 2023
 enableTwemoji = true
