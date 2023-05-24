@@ -56,19 +56,19 @@ target = "_blank"
 [[params.social]]
 name = "YouTube"
 icon = "fa fa-tiktok fa-2x"
-weight = 5
-url = "https://www.youtube.com/@TARSTechSA/"
+weight = 4
+url = "https://tinyurl.com/tarstech/"
 target = "_blank"
 [[params.social]]
 name = "Tiktok"
 icon = "fa fa-tiktok fa-2x"
-weight = 7
-url = "https://www.tiktok.com/@TARSTechSA/"
+weight = 5
+url = "https://tinyurl.com/tarstiktok/"
 target = "_blank"
 [[params.social]]
 name = "TARS Tech SA"
 icon = "fa fa-envelope fa-2x"
-weight = 7
+weight = 6
 url = "mailto:tarstechsa@gmail.com"
 target = "_blank"
 
