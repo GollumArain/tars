@@ -28,7 +28,7 @@ hidecolorschemetoggle = false
 commit = "https://github.com/kksudo/kazakov.xyz/tree/"
 powered_by = true
 # Series see also post count
-maxSeeAlsoItems = 5
+maxSeeAlsoItems = 6
 
 [taxonomies]
 tag = "tags"
