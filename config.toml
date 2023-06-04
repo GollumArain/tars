@@ -1,4 +1,4 @@
-baseurl = "https://kazakov.xyz"
+baseurl = "https://tars.pages.dev/"
 title = "TARS Tech SA"
 theme = "hugo-coder-forked"
 languagecode = "en"
@@ -14,9 +14,9 @@ disqusShortname = "kksudo"
 enableGitInfo = true
 
 [params]
-author = "TARS Tech SA"
+author = "TARS Tech"
 info = ["Got a Glitch? Get a Fix!"]
-description = "TARS Tech SA's social page"
+description = "TARS Tech's social page"
 keywords = "blog,businesscard,personal,devops"
 avatarurl = "https://i.imgur.com/UkaKzu8.jpeg"
 
@@ -72,8 +72,8 @@ name = "Home"
 weight = 1
 url  = "/"
 [[languages.en.menu.main]]
-name = "About"
+name = "Reviews"
 weight = 2
-url = "about/"
+url = "Reviews/"
 
 
