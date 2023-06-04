@@ -109,3 +109,9 @@ Finally, the service at TARS Tech was quick and nice. Mr. Yoda himself was very 
 Overall, I'm very happy with my experience at TARS Tech. I would definitely recommend them to anyone looking for a used cell phone or other cell phone related sevices such as accessories and gadgets.
 
 30.
+Bought a tablet cover for my Lenovo Tab P11 Plus and screen protector. I spent days looking for these but nobody had in stock or offered to arrange it on demand. Yoda not only arranged it specifically for me, but also delivered before expected date. I would say:
+Great quality, affordable, and reliable.
+Quick and kind service by Mr. Yoda.
+
+31.
+I'm thrilled with the cover and screen protector I got. The quality is outstanding, and they've been providing reliable protection for my tablet for quite some time now, surpassing my expectations. Mr. Yoda's quick and kind service added an extra touch of excellence.
