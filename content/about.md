@@ -114,4 +114,31 @@ Great quality, affordable, and reliable.
 Quick and kind service by Mr. Yoda.
 
 31.
-I'm thrilled with the cover and screen protector I got. The quality is outstanding, and they've been providing reliable protection for my tablet for quite some time now, surpassing my expectations. Mr. Yoda's quick and kind service added an extra touch of excellence.
+I'm thrilled with the cover and screen protector I got. The quality is outstanding, and they've been providing reliable protection for my iPad for quite some time now, surpassing my expectations. Mr. Yoda's quick and kind service added an extra touch of excellence.
+
+32.
+Mr. Yoda's cell phone store is great!
+I bought a cover and screen protector for my fold 4, And it's been working great ever since. Earlier I installed three different versions from three different stores none worked as expected some did not even last a week. But TARS Tech really helped me out of this mess.
+
+33.
+TARS Tech fixed my phone's battery quickly and affordably.
+The quality of the work is great, and it's been working perfectly ever since.
+The staff was friendly and helpful. Would definitely recommend!
+
+34.
+I couldn't be happier with the battery replacement, screen protector, and cover I got from TARS Tech. The quality of the products is excellent, and they have been working flawlessly for quite some time now, meeting my expectations. I want to give a special shout-out to TARS Tech for their quick and kind service. I highly recommend them for their reliable, affordable, and high-quality solutions.
+
+35.
+I recently purchased a pair of headphones from TARS Tech, and I'm very happy with them. The headphones are high quality. I've been using them for a few months now, and they've held up well. The sound quality is excellent, and the headphones are very comfortable to wear. I also appreciate that TARS Tech offers a one-year warranty on their high end products.
+The customer service at TARS Tech was also excellent. I had a few questions about the headphones before I purchased them, and the staff was very helpful and knowledgeable. They answered all of my questions in a timely manner, and they were very friendly and patient.
+Overall, I'm very happy with my purchase from TARS Tech. I would definitely recommend them to anyone looking for high quality, affordable, and reliable headphones.
+
+36.
+I'm absolutely pleased with the headphone I purchased from them. The quality is exceptional, and it has been working flawlessly for quite some time now, meeting my expectations. The affordability and reliability of the product make it a great value for money. I recommend this store for their top-notch offerings and excellent customer experience. 5 stars well-deserved!
+
+37.
+I recently purchased a LEGO Minecraft set for my nephew from TARS Tech. I was very impressed with the quality of the set, as well as the quick and kind service I received from the staff.
+The LEGO set was well-made and my nephew has been having a lot of fun building it.  was also impressed with the variety of different pieces that were included in the set.
+The staff at TARS Tech were very friendly and helpful. They were able to answer all of my questions about the LEGO set and they even helped me to find the perfect set for my nephew's interests.
+
+38.
