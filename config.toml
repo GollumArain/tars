@@ -1,5 +1,5 @@
 baseurl = "https://tars.pages.dev/"
-title = "TARS Tech SA"
+title = "Cell Sanctuary"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,9 +14,9 @@ disqusShortname = "kksudo"
 enableGitInfo = true
 
 [params]
-author = "TARS Tech"
+author = "Cell Sanctuary"
 info = ["Got a Glitch? Get a Fix!"]
-description = "TARS Tech's social page"
+description = "Cell Sanctuary's social page"
 keywords = "blog,businesscard,personal,devops"
 avatarurl = "https://i.imgur.com/UkaKzu8.jpeg"
 
@@ -39,19 +39,19 @@ author = "authors"
 name = "Facebook"
 icon = "fa fa-facebook fa-2x"
 weight = 1
-url = "https://www.facebook.com/TARSTechSA/"
+url = "https://www.facebook.com/CellSanctuaryZA/"
 target = "_blank"
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter fa-2x"
 weight = 2
-url = "https://twitter.com/TARSTechSA/"
+url = "https://twitter.com/CellSanctuaryZA/"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://instagram.com/TARSTechSA/"
+url = "https://instagram.com/CellSanctuaryZA/"
 target = "_blank"
 [[params.social]]
 name = "YouTube"
