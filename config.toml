@@ -57,13 +57,13 @@ target = "_blank"
 name = "YouTube"
 icon = "fa fa-youtube fa-2x"
 weight = 4
-url = "https://www.youtube.com/@TARSTechSA/"
+url = "https://www.youtube.com/@CellSanctuaryZA/"
 target = "_blank"
 [[params.social]]
 name = "Tiktok"
 icon = "fa fa-tiktok fa-2x"
 weight = 5
-url = "https://www.tiktok.com/@TARSTechSA/"
+url = "https://www.tiktok.com/@CellSanctuaryZA/"
 target = "_blank"
 
 # Menu links
