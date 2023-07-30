@@ -18,7 +18,7 @@ author = "Cell Sanctuary"
 info = ["Got a Glitch? Get a Fix!"]
 description = "Cell Sanctuary's social page"
 keywords = "blog,businesscard,personal,devops"
-avatarurl = "https://imgur.com/a/VuRTHmB.jpeg"
+avatarurl = "https://imgur.com/a/VuRTHmB.png"
 
 since = 2023
 enableTwemoji = true
