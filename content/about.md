@@ -5,8 +5,7 @@ date = "2022-11-08T12:43:38+03:00"
 aliases = ["Review"]
 +++
 
-1.
-I was so happy with the service I received at this cell phone repair store. My phone screen was cracked and I was worried about how much it would cost to get it repaired. But the staff was very friendly and helpful, and they gave me a great price. The repair was done quickly and my phone looks like new! I would definitely recommend this store to anyone who needs cell phone repairs.
+https://www.google.com/maps/place/Cell+Sanctuary/data=!4m2!3m1!1s0x1eec33753bb0a373:0x6be47a167439ad81?hl=en&trk=https%3A%2F%2Fnotifications.google.com%2Fg%2Fp%2FANiao5qcrHZd27HE1BXoJNZe9DZg2OJa39hBbFbqNq0l5JOLBaECgGGKQSd0Ub2j7vXWpOC-5nQS1AJT6wMKP8u6LFQRf8-rATvyh6bnU3YY5MTMoArfGU4cQOfWBwKp6ggo_17xsWFZConJgZv-jr_m4pGjq7t4aBYDama_hCkx7Boo660HsjCoemQOVMxiAz8bFAhKlqZyUCK1UDEWLA
 
 2.
 This cell phone repairs store is an absolute lifesaver! The team of skilled technicians went above and beyond to fix my phone, treating it with care and precision. Their friendly and knowledgeable staff made the experience smooth and stress-free. I can't recommend them enough for their outstanding service. 5 stars!
@@ -190,8 +189,4 @@ I recently went to Cell Sanctuary to get my digital footprint set up. I was real
 The "CSDFS (Cell Sanctuary's Digital Footprint Setup)" service is designed to protect your privacy and security online. It does this by removing digital identification marks that can be used to track you and by adjusting your privacy settings. This makes it more difficult for advertisers to target you with ads, and it also helps to protect your personal information from being stolen.
 I've been using the "CSDFS" service for a few weeks now, and I'm really happy with it. I feel more confident that my privacy is being protected, and I'm not being bombarded with as many ads. This is a must have service for anyone who is concerned about their online privacy.
 
-49.
-I recently had the pleasure of using the "CSOSS" (Cell Sanctuary's OS Setup) service at Cell Sanctuary. I bought a new laptop online but it came without an operating system. I went to Cell Sanctuary and spoke with one of their representatives, who was very helpful. He took the time to listen to my needs and recommended that "CSOSS" service would be perfect for me. He also explained the "CSOSS" service in detail and answered all of my questions.
-I was very impressed with the "CSOSS" service. The staff at Cell Sanctuary were quick and friendly, and they did a great job of setting up my new laptop. They installed the OS and all of the relevant applications, and they made sure that everything was working properly. I've been using my new laptop for a few weeks now, and I'm very happy with it. It's exactly what I needed, and it's working great.
-I would highly recommend Cell Sanctuary to anyone who is looking for a new device or who wants to use the "TOSS" service. The staff are knowledgeable, friendly, and efficient. They will take the time to listen to your needs and recommend the perfect system for you. I'm very happy with my experience at Cell Sanctuary, and I would definitely use their services again.
 
