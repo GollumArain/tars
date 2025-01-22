@@ -6,7 +6,7 @@ aliases = ["Review"]
 +++
 
 
-CS:
+**CS:**
 
 https://maps.app.goo.gl/aYhR8URgtVkzePm8A
 
@@ -192,7 +192,7 @@ I've been using the "CSDFS" service for a few weeks now, and I'm really happy wi
 
 
 
-VL:
+**VL:**
 
 https://g.co/kgs/xCMKcPi
 
