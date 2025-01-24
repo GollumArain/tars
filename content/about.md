@@ -11,20 +11,8 @@ aliases = ["Review"]
 [Map Link/Google Profile](https://maps.app.goo.gl/aYhR8URgtVkzePm8A)
 
 
-3.
-I was so nervous about getting my phone screen repaired, but the staff at Cell Sanctuary store were so friendly and helpful that I felt totally at ease. They explained everything to me in a way that I could understand, and they were really quick and efficient. My phone looks brand new now, and I'm so glad I went to Cell Sanctuary.
-
-4.
-I had a cracked screen on my phone and I was worried about how much it would cost to fix. I called around to a few different places and Cell Sanctuary had the best price. I went in and the staff were so friendly and helpful. They explained the process to me and told me what to expect. They replaced my screen in about an hour and a half and it looks brand new! I would definitely recommend them to anyone who needs their phone screen repaired.
-
-5.
-I couldn't be happier with the service at this cell phone repair store! They replaced my cracked screen flawlessly, giving my phone a new lease on life. The staff was incredibly friendly and helpful, taking the time to explain the repair process and answering all my questions. I highly recommend them for their top-notch expertise and 5-star customer service!
-
-6.
-I had my cracked screen replaced at Cell Sanctuary and I'm so happy with the results! The service was quick and friendly, and the new screen looks like it came from the factory. I would definitely recommend Cell Sanctuary to anyone who needs their cell phone repaired.
-
 7.
-I can't thank Cell Sanctuary store enough for rescuing my cracked screen! The skilled technicians worked their magic, restoring my phone to its former glory. The staff was incredibly friendly and patient, answering all my questions with a smile. I wholeheartedly give them 5 stars for their exceptional service and expertise.
+I can't thank Cell Sanctuary enough for rescuing my cracked screen! The skilled technicians worked their magic, restoring my phone to its former glory. The staff was incredibly friendly and patient, answering all my questions with a smile. I wholeheartedly give them 5 stars for their exceptional service and expertise.
 
 8.
 5 stars! My phone screen was cracked and I needed it fixed ASAP. Cell Sanctuary had the part in stock and replaced it in less than an hour. The staff was friendly and helpful, and the price was reasonable. I would definitely recommend Cell Sanctuary to anyone who needs their phone screen repaired.
@@ -35,7 +23,7 @@ Went to Cell Sanctuary. They saved the day!
 5 stars, would recommend.
 
 10.
-Yoda @Cell Sanctuary repair store is an absolute savior! He worked tirelessly to recover my lost data, going the extra mile to ensure every precious file was retrieved. His expertise and dedication deserve a solid 5-star rating.
+Yoda @Cell Sanctuary is an absolute savior! He worked tirelessly to recover my lost data, going the extra mile to ensure every precious file was retrieved. His expertise and dedication deserve a solid 5-star rating.
 
 11.
 Amazing service! They recovered all my lost data.
@@ -75,7 +63,7 @@ They had the highest quality parts.
 My phone is good as new.
 
 20.
-I'm absolutely thrilled with the highest quality accessories I found at this cell phone repair store! The wide range of options and durable products exceeded my expectations. Their exceptional attention to detail and commitment to providing top-notch accessories deserves appreciation.
+I'm absolutely thrilled with the highest quality accessories I found at Cell Sanctuary! The wide range of options and durable products exceeded my expectations. Their exceptional attention to detail and commitment to providing top-notch accessories deserves appreciation.
 
 21.
 I bought a fast charger from Cell Sanctuary three months ago and it's been working great. The quality is excellent, it's very affordable, and it's been very reliable. I would definitely recommend Cell Sanctuary to anyone who needs a cell phone service.
@@ -197,18 +185,6 @@ I've been using the "CSDFS" service for a few weeks now, and I'm really happy wi
 [Map Link/Google Profile](https://maps.app.goo.gl/AerhuZcgtY67gHcBA)
 
 
-
-1.
-The store perfectly strikes the balance between being quiet and clean. This makes it easy for me to find everything I need the moment I walk through the door. 
-
-2.
-The staff here is helpful and courteous from the get go. They have always assisted me whenever I had any follow up questions. 
-
-3.
-Vape Land is a cut above the rest. The combination of speedy service along with a great assortment of products at such enticing prices draws me in every time.
-
-4.
-The deals they are currently offering are too good to pass on. The bundles with vape products offer great value for the money spent. 
 
 5.
 In my experience, the ideal standard of service in this area is simply unrivaled. The employees guarantee that I always leave with a smile on my face after making a satisfying purchase.
