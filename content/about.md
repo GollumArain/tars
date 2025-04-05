@@ -11,19 +11,9 @@ aliases = ["Review"]
 [Map Link/Google Profile](https://maps.app.goo.gl/aYhR8URgtVkzePm8A)
 
 
-7.
-I can't thank Cell Sanctuary enough for rescuing my cracked screen! The skilled technicians worked their magic, restoring my phone to its former glory. The staff was incredibly friendly and patient, answering all my questions with a smile. I wholeheartedly give them 5 stars for their exceptional service and expertise.
-
-8.
-5 stars! My phone screen was cracked and I needed it fixed ASAP. Cell Sanctuary had the part in stock and replaced it in less than an hour. The staff was friendly and helpful, and the price was reasonable. I would definitely recommend Cell Sanctuary to anyone who needs their phone screen repaired.
-
-9.
-Lost all my data. Thought i was never getting it back.
-Went to Cell Sanctuary. They saved the day!
-5 stars, would recommend.
 
 10.
-Yoda @Cell Sanctuary is an absolute savior! He worked tirelessly to recover my lost data, going the extra mile to ensure every precious file was retrieved. His expertise and dedication deserve a solid 5-star rating.
+Loki @Cell Sanctuary is an absolute savior! He worked tirelessly to recover my lost data, going the extra mile to ensure every precious file was retrieved. His expertise and dedication deserve a solid 5-star rating.
 
 11.
 Amazing service! They recovered all my lost data.
@@ -185,9 +175,6 @@ I've been using the "CSDFS" service for a few weeks now, and I'm really happy wi
 [Map Link/Google Profile](https://maps.app.goo.gl/AerhuZcgtY67gHcBA)
 
 
-
-5.
-In my experience, the ideal standard of service in this area is simply unrivaled. The employees guarantee that I always leave with a smile on my face after making a satisfying purchase.
 
 6.
 To top it all off, they are conveniently located so there is no need to worry about parking as well. I can easily drive over at any moment.
