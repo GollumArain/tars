@@ -12,41 +12,6 @@ aliases = ["Review"]
 
 
 
-10.
-Loki @Cell Sanctuary is an absolute savior! He worked tirelessly to recover my lost data, going the extra mile to ensure every precious file was retrieved. His expertise and dedication deserve a solid 5-star rating.
-
-11.
-Amazing service! They recovered all my lost data.
-Friendly and knowledgeable staff.
-5 stars, would definitely recommend.
-
-12.
-I am forever grateful to Mr. Yoda at Cell Sanctuary for recovering my precious lost data! It took some time but he displayed exceptional knowledge and professionalism, ensuring that all my valuable files were retrieved. His outstanding service and expertise deserve a resounding 5-star rating!
-
-13.
-My phone wouldn't charge, so I took it to Cell Sanctuary.
-The staff was friendly and helpful, and they fixed my phone in no time.
-I'm so glad I found Cell Sanctuary!
-
-14.
-I'm incredibly relieved to have found Cell Sanctuary. They successfully resolved my charging issue! The technicians went above and beyond to diagnose and fix the problem with care and precision. Their exceptional service and prompt resolution deserve a heartfelt thanks.
-
-15.
-My phone wouldn't charge, so I took it to the Cell Sanctuary near me.
-The staff was friendly and helpful, and they fixed my phone in no time.
-I would definitely recommend Cell Sanctuary to anyone who needs their phone repaired.
-
-16.
-I can't express enough gratitude to Yoda for fixing my frustrating charging issue! The team of dedicated technicians promptly diagnosed and resolved the problem with utmost care and expertise. Yoda's exceptional service deserves a well-earned 5-stars.
-
-17.
-**High-quality accessories**
-**Fast and friendly service**
-**Would definitely recommend**
-
-18.
-I am thrilled with the wide range of highest quality accessories offered by Cell Sanctuary! From stylish phone cases to fast chargers, they have everything I needed to enhance my phone experience.
-
 19.
 Went to Cell Sanctuary for a screen repair.
 They had the highest quality parts.
