@@ -8,7 +8,7 @@ aliases = ["Review"]
 
 **CS:**
 
-[Map Link/Google Profile](https://maps.app.goo.gl/aYhR8URgtVkzePm8A)
+[Map Link/Google Profile](https://maps.app.goo.gl/aYhR8URgtVkzePm8A/review)
 
 
 
@@ -415,7 +415,7 @@ Love this shop, 5 stars ⭐⭐⭐⭐⭐
 
 **VL:**
 
-[Map Link/Google Profile](https://maps.app.goo.gl/AerhuZcgtY67gHcBA)
+[Map Link/Google Profile](https://maps.app.goo.gl/AerhuZcgtY67gHcBA/review)
 
 
 
