@@ -12,94 +12,6 @@ aliases = ["Review"]
 
 
 
-1.
-
-Best phone repair in Volksrust, fast service 👌
-
-2.
-
-Love this place, always get my chargers here.
-
-3.
-
-Got my screen fixed, looks brand new now.
-
-4.
-
-Super helpful guys, know their stuff.
-
-5.
-
-Picked up a used phone, works perfect 💯
-
-6.
-
-Laptop was slow, now it’s running smooth.
-
-7.
-
-Friendly service, fair price.
-
-8.
-
-Bought earphones here, very happy.
-
-9.
-
-My console was repaired quick, thanks!
-
-10.
-
-Great store for all things tech 👍
-
-11.
-
-They replaced my battery, lasts so much longer now.
-
-12.
-
-Cool phone covers, lots of choices.
-
-13.
-
-Saved my phone after water damage.
-
-14.
-
-Staff is patient and helpful, not pushy.
-
-15.
-
-Honest ppl, they don’t rip you off.
-
-16.
-
-Good deals on accessories.
-
-17.
-
-Got tempered glass fitted, nice job.
-
-18.
-
-Their CCTV installation was neat and professional.
-
-19.
-
-Console cleaned, runs like new.
-
-20.
-
-Picked up a camera here, quality is great.
-
-21.
-
-Screen replacement was cheaper than I expected.
-
-22.
-
-Always smiling faces here 🙂
-
 23.
 
 Phone cover fits perfectly, love it.
@@ -419,27 +331,6 @@ Love this shop, 5 stars ⭐⭐⭐⭐⭐
 
 
 
-6.
-To top it all off, they are conveniently located so there is no need to worry about parking as well. I can easily drive over at any moment.
-
-7.
-I've noticed that the staff members here make it a point to help me find the products that best suit my vaping needs. 
-
-8.
-For beginners and experts alike, Vape Land offers a range of accessories including mods and pods setting them up exceptionally for every level.
-
-9.
-Vape Land's customer service guarantees that I will always return to Vape Land for my vaping supplies. With such high standards of service it is not doubt.
-
-10.
-I truly appreciate that they are dedicated to keeping up with the newest trends. It brings me joy to see them constantly stock the latest products. 
-
-11.
-The money I can save with their loyalty program is astounding. It is definitely one of the best out there.
-
-12.
-The combination of a welcoming staff along with a view relaxing atmosphere never fails to put a smile on my face.
-
 13.
 I'm pleased to point out that ordering online is routine and dependable. Each time, delivery is quick, packages are handled with utmost care, and everything is securely placed inside.
 
@@ -705,23 +596,6 @@ Either way, the store never lets me down with quality products and service.
 [Map Link/Google Profile](https://g.page/r/CRxuvvnFRQUDEBM/review)
 
 
-15.
-If you're in Danhouse, MS Hardware is a must-visit. They have everything you need for your home improvement projects. Great store!
-
-16.
-MS Hardware is my first choice for building materials. Their cement is of the highest quality, and they offer competitive prices. Yoda's management is exceptional!
-
-17.
-MS Hardware is my DIY sanctuary. From nails to gas, they've got it all. Yoda's management makes it an absolute delight!
-
-18.
-Yoda's MS Hardware is where dreams of home improvement come true. I found the perfect door for my house, and it's just stunning.
-
-19.
-MS Hardware in Danhouse, is a treasure trove of hardware goodies. I bought some top-quality paint for my project and achieved fantastic results.
-
-20.
-Thanks to MS Hardware, my kitchen remodel was a breeze. Their tools are top-notch, and the staff's knowledge is a game-changer.
 
 21.
 If you're in Hammanskraal and need building materials, look no further than MS Hardware. They've got cement that's strong as the Force!
